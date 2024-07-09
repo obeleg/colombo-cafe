@@ -9,5 +9,5 @@ The Colombo Port City project is aimed at creating a new financial district with
 Strategically located next to Colombo's central business district, this development is envisioned to drive economic growth by offering modern workspaces and sustainable living options. The project aims to generate substantial employment opportunities and significantly boost Sri Lanka's GDP, positioning the country as a key player in regional trade and commerce.
 
 
-[View the Colombo Port City Project PDF](https://example.com/colombo-port-city-project.pdf)
+[View the Colombo Port City Project slide](https://github.com/obeleg/colombo-cafe/blob/main/COLOMBO%20CAFES%20REPORTS.pptx)
 
