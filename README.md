@@ -1,6 +1,6 @@
 # Colombo Caffe Project
 
-![Dashboard]([https://example.com/lsetf-logo.png](https://github.com/obeleg/colombo-cafe/blob/main/WhatsApp%20Image%202024-06-24%20at%2010.56.59%20AM%20(1).jpeg))
+![Dashboard](https://example.com/lsetf-logo.png](https://github.com/obeleg/colombo-cafe/blob/main/WhatsApp%20Image%202024-06-24%20at%2010.56.59%20AM%20(1).jpeg)](https://github.com/obeleg/colombo-cafe/blob/main/WhatsApp%20Image%202024-06-24%20at%2011.11.08%20AM.jpeg)
 
 The Colombo Caffe Project appears to be part of the broader development efforts within the Colombo Port City, an ambitious initiative transforming Sri Lanka into a major economic and service hub. This project involves significant public-private partnerships, including collaboration with the China Harbour Engineering Corporation.
 
