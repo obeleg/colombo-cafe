@@ -1,6 +1,6 @@
 # Colombo Caffe Project
 
-
+![Dashboard]([https://example.com/lsetf-logo.png](https://github.com/obeleg/colombo-cafe/blob/main/WhatsApp%20Image%202024-06-24%20at%2010.56.59%20AM%20(1).jpeg))
 
 The Colombo Caffe Project appears to be part of the broader development efforts within the Colombo Port City, an ambitious initiative transforming Sri Lanka into a major economic and service hub. This project involves significant public-private partnerships, including collaboration with the China Harbour Engineering Corporation.
 
@@ -8,8 +8,4 @@ The Colombo Port City project is aimed at creating a new financial district with
 
 Strategically located next to Colombo's central business district, this development is envisioned to drive economic growth by offering modern workspaces and sustainable living options. The project aims to generate substantial employment opportunities and significantly boost Sri Lanka's GDP, positioning the country as a key player in regional trade and commerce.
 
-# Technical Support Dashboard Project
 
-The Technical Support Dashboard project visualizes and tracks the performance metrics of a technical support team, providing detailed insights into ticket management. It highlights key areas such as ticket volume, types of issues (e.g., product setup, pricing/licensing, feature requests), and geographical distribution. The dashboard also monitors SLA compliance and agent workload, identifying bottlenecks and inefficiencies. 
-
-The primary problems identified include high ticket volume, complex product setup processes, confusion over pricing/licensing, and unmet feature requests. The project aims to enhance support efficiency, improve customer satisfaction, and streamline issue resolution by providing actionable data insights.
